@@ -73,6 +73,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-# 기억이 안나요 2번 3번
